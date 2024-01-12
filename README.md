@@ -3,21 +3,21 @@
 Esse Projeto foi dedicado pelo professor Saulo Catharino com o tema Inteligência Artificial e nele contém os seguintes ensinamentos:
 ------
 
-- Image Classification:
-- Object Detection:
-- Image Segmentation:
-- Text to Text:
-- Text to Image:
-- Question Answering:
-- Translation:
-- Prompt + Image to Image:
-- Zero Shot Image Classification:
-- Text + Audio to Audio:
-- Zero Shot Text Classification:
+- Image Classification
+- Object Detection
+- Image Segmentation
+- Text to Text
+- Text to Image
+- Question Answering
+- Translation
+- Prompt + Image to Image
+- Zero Shot Image Classification
+- Text + Audio to Audio
+- Zero Shot Text Classification
 
 Se você tiver interesse de fazer a aula dele deixarei o link aqui [Inteligência Artificial](https://hotmart.com/pt-br/marketplace/produtos/inteligencia-artificial-para-desenvolvedor-preguicoso/C88605120Y)
 ---
-# Dependências e Versões Necessárias
+# Dependências 
 
 Para replicar o código, é essencial ter as seguintes ferramentas:
   - Ambiente de Desenvolvimento: Utilize Google Colab (ou, se preferir, Jupyter Notebook ou VSCode).
@@ -27,7 +27,7 @@ Para replicar o código, é essencial ter as seguintes ferramentas:
   - Python: Certifique-se de ter o Python instalado. 
  
 ---
-# Dependências e Versões:
+# Versões
 
 Abaixo estão as dependências e versões utilizadas nesta implementação. É importante observar que as versões mencionadas podem ter sido atualizadas desde a última configuração. Verifique a compatibilidade com as versões mais recentes.
 
